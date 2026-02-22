@@ -2,8 +2,7 @@
 
 backend:
   name: github
-  repo: YOUR_USER/REPO # @TODO: replace with your own repo!
-  branch: main
+  repo: pub rondeau/sveleven
 
 # Global configuration
 media_folder: /src/_public/media

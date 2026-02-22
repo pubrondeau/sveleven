@@ -2,7 +2,7 @@
 
 backend:
   name: github
-  repo: pub rondeau/sveleven
+  repo: pubrondeau/sveleven
 
 # Global configuration
 media_folder: /src/_public/media
